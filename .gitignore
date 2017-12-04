@@ -63,6 +63,6 @@ project.xcworkspace
 .gradle
 local.properties
 
-lib/
+# lib/
 snapshots
 example/web/dist
